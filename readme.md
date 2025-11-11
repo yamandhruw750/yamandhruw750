@@ -13,6 +13,8 @@ Currently exploring the world of **HTML, CSS, Javascript** and build my way up t
 
 ## 🛠️ Tech I'm exploring:
 
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![image][html]
 
 [html]: {https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}
