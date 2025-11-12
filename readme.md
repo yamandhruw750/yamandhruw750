@@ -33,7 +33,8 @@ Currently exploring the world of **HTML, CSS, Javascript** and build my way up t
 
 If you're in web dev, design, or just geeking about tech - let's connect!
 
-![image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fyamandhruw750)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/yamandhruw)
 
 <!-- ## 📊 Summary -->
 
